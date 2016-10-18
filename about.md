@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+반갑습니다. 제 이름은 홍순모라고 하고 1971년생입니다.
+현재 HP Korea 에서 15년간 기업고객대상으로 프린터, 복합기 분야 기술영업을 하고 있습니다. 원래 서버 시스템 엔지니어로 직장 생활을 시작했지만 프린터 분야로 옮기고 나서 15년 동안 같은 분야에서 일을 하고 있습니다.
 
-### More Information
+15년 동안 많은 기술의 발전이 있었고 다양한 기업 고객을 상대로 영업 지원을 하다 보니 많은 경험과 지식이 쌓였습니다. PC나 서버 관련 정보는 비교적 많은데 상대적으로 프린팅 분야의 정보는 많지 않습니다. IT 분야에서 프린팅 기기는 상대적으로 중요도가 낮게 인식이 되어서 그런지 전문가들이 많지 않습니다. 때문에 그동안 습득한 정보를 정리해서 남겨 놓아야 겠다는 생각을 하게 되었습니다.
 
-A place to include any other types of information that you'd like to include about yourself. 
+직장생활을 하면서 블로그에 양질의 정보를 체계적으로 정리하는 것은 쉬운 일이 아니고 시간이 무척 많이 걸리는 작업입니다만 짬을 내서 꾸준히 이곳에 정리를 할 것입니다. 댓글 시스템은 아직 계획이 없습니다만 본 블로그 내용에 관련해서 질문이 있으면 아래 이메일 주소로 연락을 주시면 답변을 드리겠습니다. 
 
-### Contact me
+![2012년 Tech U Boise, Idaho](http://dl.dropbox.com/s/dx40oni6ngshwqw/About_Me.JPG)
 
-[email@domain.com](mailto:email@domain.com)
+### 이메일
+
+[soonmo.hong@gmail.com](mailto:soonmo.hong@gmail.com)
