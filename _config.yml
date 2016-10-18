@@ -48,7 +48,7 @@ baseurl: ""
 #
 
 encoding: utf-8
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: /:title/
 
