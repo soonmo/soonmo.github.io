@@ -40,4 +40,4 @@ tags: JetDirect 망분리
 
 * 제품명: HP JetDirect ew2500 (J8021A)
 * 소비자가격 (부가세 별도):  322,000 원
-* 제품정보링크:http://www8.hp.com/kr/ko/products/print-servers/product-detail.html?oid=3980828
+* 제품 정보 링크: http://www8.hp.com/kr/ko/products/print-servers/product-detail.html?oid=3980828
