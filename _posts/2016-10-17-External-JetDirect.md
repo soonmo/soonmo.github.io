@@ -21,7 +21,7 @@ tags: JetDirect 망분리
 ### 3. 외장형 프린트 서버 액세서리 활용
 한 대의 프린터에 인터넷 ,인트라넷 네트웍을 연결하는 방식으로 HP JetDirect ew2500 이라는 액세서리를 이용하면 구현할 수 있다. 프린터에 내장된 네트웍 포트에는 인트라넷을 연결하고 HP JetDirect ew2500 의 네트웍 포트에 인터넷 라인을 연결한다. HP JetDirect ew2500과 프린터는 USB 케이블로 연결한다.
 
-![enter image description here](http://dl.dropbox.com/s/yzpvmj8rt7kuz4e/JetDirect-ew2500.jpg)
+![연결 방식](../images/JetDirect-ew2500.jpg)
 
 이 방식의 **장점**은 
 
@@ -29,7 +29,7 @@ tags: JetDirect 망분리
 * 프린터와 JetDirect 간의 연결이 USB이기 때문에 인터넷과 인트라넷과의 브릿징을 통한 침투가 불가능하다.
 * JetDirect 내에 ACL(Access Control List), 방화벽(Firewall) 기능이 내장되어 있어서 인터넷 PC IP 주소를 등록해 놓으면 다른 PC에서의 출력을 차단할 수 있다.
 
-![enter image description here](http://dl.dropbox.com/s/azg5gu462j53npc/JetDirect-ew2500-configuration.jpg)
+![보안 기능](../images/JetDirect-ew2500-configuration.jpg)
 
 이 방식의 **단점**은
 
