@@ -13,7 +13,3 @@ permalink: /about/
 직장생활을 하면서 블로그에 양질의 정보를 체계적으로 정리하는 것은 쉬운 일이 아니고 시간이 무척 많이 걸리는 작업입니다만 짬을 내서 꾸준히 이곳에 정리를 할 것입니다. 댓글 시스템은 아직 계획이 없습니다만 본 블로그 내용에 관련해서 질문이 있으면 아래 이메일 주소로 연락을 주시면 답변을 드리겠습니다. 
 
 ![2012년 Tech U Boise, Idaho](../images/About_Me.JPG)
-
-### 이메일
-
-[soonmo.hong@gmail.com](mailto:soonmo.hong@gmail.com)
