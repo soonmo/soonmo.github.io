@@ -14,7 +14,7 @@ HP에서는 과거에 어떤 레이저젯 프린터보다 작으면서 빠르게
 
 먼저 HP 프린팅 과학이라는 비디오를 아래 YOUTUBE 링크를 클릭해서 시청하시기 바랍니다. HP 레이저 프린팅 원리를 이해하실 수 있습니다.
 
-<iframe width="560" height="315" src="https://youtu.be/edqkPUJudPk" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/edqkPUJudPk" frameborder="0" allowfullscreen></iframe>
 
 ### HP 혁신 기술
 
@@ -115,4 +115,4 @@ HP는 고객마다 인쇄 패턴이 다른 것을 이미 알고 카트리지를 
 - 시장에서 HP를 차별화하는데 매우 긍정적인 영향을 줄 것으로 기대합니다.
 - 마지막으로 젯인텔리전스 기술이 탑재된 레이저젯 신제품 소개 동영상 링크를 공유하면서 마치도록 하겠습니다.
 
-<iframe width="560" height="315" src="https://youtu.be/2ghmMGHdVt8" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/2ghmMGHdVt8" frameborder="0" allowfullscreen></iframe>
