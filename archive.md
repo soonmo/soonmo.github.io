@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: 전체 글
 permalink: /archive/
 ---
 
