@@ -3,7 +3,6 @@ layout: page
 title: Archive
 permalink: /archive/
 ---
-<article>
 
 <!-- from http://www.mitsake.net/2012/04/archives-in-jekyll/ -->
 
@@ -18,5 +17,3 @@ permalink: /archive/
  
 {% endfor %}
 
-
-</article>
