@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HP 엔터프라이즈 MFP 에 HP Scan Twain 설치 및 구성
+title: HP 엔터프라이즈 MFP용 HP Scan Twain 설치 및 구성
 tags: MFP 스캔 복합기 FutureSmart
 ---
 
