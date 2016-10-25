@@ -5,7 +5,6 @@
 // IMPORTS
 //
 
-@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 @import "_reset";
 @import "_variables";
 // Syntax highlighting @import is at the bottom of this file
