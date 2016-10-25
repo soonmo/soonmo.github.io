@@ -15,9 +15,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: "HP Simplified", "Malgun Gothic", sans-serif;
-$helveticaNeue: "HP Simplified", "Malgun Gothic", sans-serif;
-$georgia: "HP Simplified", "Malgun Gothic", serif;
+$helvetica: "HP Simplified Hangeul Light", "HP Simplified", "Malgun Gothic", sans-serif;
+$helveticaNeue: "HP Simplified Hangeul", "HP Simplified", "Malgun Gothic", sans-serif;
+$georgia: "HP Simplified Hangeul Light", "HP Simplified", "Malgun Gothic", serif;
 
 // Mobile breakpoints
 @mixin mobile {
