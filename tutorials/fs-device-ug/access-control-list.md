@@ -1,7 +1,7 @@
 ---
 title: ACL (Access Control List)
 layout: page
-permalink: /tutorials/fs-device-ug/access-control-list
+permalink: /tutorials/fs-device-ug/access-control-list/
 ---
 ACL을 구성하면 특정 PC 나 Server 에서만 복합기로 인쇄를 하거나 접속을 할 수 있다. 즉 네트웍 단에서 접근 제어를 할 수 있다. 예를 들어서 프린트 서버를 통해서 출력이 되도록하고 개별 PC에서의 출력을 막고 싶다면 ACL을 설정하면 된다.
 

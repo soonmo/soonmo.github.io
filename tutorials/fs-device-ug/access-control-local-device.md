@@ -1,7 +1,7 @@
 ---
 title: '액세스 제어 &#8211; 로컬 장치'
 layout: page
-permalink: /tutorials/fs-device-ug/access-control-local-device
+permalink: /tutorials/fs-device-ug/access-control-local-device/
 ---
 <div id="toc_container" class="no_bullets">
   <p class="toc_title">
