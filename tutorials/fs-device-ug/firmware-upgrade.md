@@ -16,21 +16,21 @@ permalink: /tutorials/fs-device-ug/firmware-upgrade/
   * 복합기 전원을 켠다.
   * HP 로고가 나오고 <span style="text-decoration: underline;">1/8</span> 나타나면 재빨리 HP 로고를 터치한다.
 
-	![](../../images/fw_upgrade_01.jpg)
+	![](http://soonmo.github.io/images/fw_upgrade_01.jpg)
 
   * 메뉴가 나타나면 펌웨어가 들어 있는 USB 메모리를 복합기 측면에 USB 메모로 포트에 삽입한다.
 
-	![](../../images/fw_upgrade_02.jpg)
+	![](http://soonmo.github.io/images/fw_upgrade_02.jpg)
 
   * &#8220;3: Administrator&#8221;  메뉴 선택 후 OK
 
-	![](../../images/fw_upgrade_03.jpg)
+	![](http://soonmo.github.io/images/fw_upgrade_03.jpg)
 
   * &#8220;1: Download&#8221; 메뉴 선택 후 OK
   * &#8220;3: Thumbdrive&#8221; 선택 후 OK
   * OK 선택 후 펌웨어가 100% 전송될 때까지 기다린다.
 
-	![](../../images/fw_upgrade_04.jpg)
+	![](http://soonmo.github.io/images/fw_upgrade_04.jpg)
 
   * USB 메모리를 뺀다
   * 홈(집모양) 메뉴 선택
