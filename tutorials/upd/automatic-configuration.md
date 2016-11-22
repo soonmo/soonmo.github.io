@@ -59,8 +59,6 @@ permalink: /tutorials/upd/automatic-configuration/
 
 	![](http://soonmo.github.io/images/16-7.png)
 
-</p>
-
 ## 문제 해결 방법
 
   * “**프린터 속성**” 클릭
