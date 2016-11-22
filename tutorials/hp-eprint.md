@@ -23,7 +23,7 @@ permalink: /tutorials/hp-eprint/
 
   * 설정 내용 확인
 
-	![](http://soonmo.github.io/images/5-6.png)
+	![](http://soonmo.github.io/images/5_6.png)
 
 ## <span id="iPhone">iPhone 에서 인쇄</span>
 
