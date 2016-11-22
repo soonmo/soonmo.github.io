@@ -39,8 +39,8 @@ permalink: /tutorials/
       * [고장 탐구](/tutorials/wja-ug/troubleshooting/)
       * [경고 (Alert)](/tutorials/wja-ug/alert/)
   * 보안 설정 
-      * [Port 변경](/tutorials/wja-ug/security/port/)
-      * [사용자 추가 및 역할 설정](/tutorials/wja-ug/security/user/)
+      * [Port 변경](/tutorials/wja-ug/port/)
+      * [사용자 추가 및 역할 설정](/tutorials/wja-ug/user/)
   * 보고서 및 경고 
       * [보고서 샘플 살펴 보기](/tutorials/wja-ug/report-sample/)
       * [데이터 수집 설정](/tutorials/wja-ug/data-collection/)
@@ -62,5 +62,4 @@ permalink: /tutorials/
   * [UPD ADMX 정책 적용 (양면인쇄)](/tutorials/upd/upd-admx/)
   * [UPD 작업 저장 (Stored Job)](/tutorials/upd/stored-job/)
 
-## HP ePrint
-
+## [HP ePrint](/tutorials/hp-eprint/)
