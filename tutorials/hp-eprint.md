@@ -7,8 +7,6 @@ layout: page
 permalink: /tutorials/hp-eprint/
 
 ---
-{:toc}
-
 스마트폰 또는 패드에서 출력을 위한 프린터 기본 설정 작업과 ePrint 앱 설치 및 기본 설정 후 실제로 출력 실습을 수행한다. 퍼블릭 클라우드 서비스인 ePrint  Center 에 프린터를 등록하고 ePrint 앱이나 노트북의 ePrint SW 를 통해서 출력을 할 수 있다.
 
 ## <span id="i">복합기/프린터 설정</span>
