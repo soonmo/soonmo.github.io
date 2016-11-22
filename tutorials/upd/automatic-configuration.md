@@ -1,7 +1,7 @@
 ---
 title: Automatic Configuration 의 이해
 layout: page
-permalink: /tutorials/upd/automatic-configuration
+permalink: /tutorials/upd/automatic-configuration/
 ---
 모델 드라이버, UPD 에서는 프린터 드라이버 설치시 Auto Cofiguration 이라는 기술을 통해서 장치 구성을 자동으로 한다. 특히 UPD의 경우 장치가 칼라인지 흑백인지를 드라이버 설치시 구분하는데 Auto Configuration을 사용한다. 이번 실습을 통해서 UPD에서 Auto Configuration이 어떻게 작동하는지 정확히 이해할 수 있다.
 
