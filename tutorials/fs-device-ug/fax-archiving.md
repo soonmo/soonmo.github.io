@@ -11,7 +11,7 @@ permalink: /tutorials/fs-device-ug/fax-archiving/
 
   * 팩스 보관: “**보관 전용**”, 보관할 팩스 작업 유형: “**모든 팩스**”, 파일 형식: “**PDF**”, 보관 목적지: **네트워크 폴더**
 
-	![](http://soonmo.github.io/images/2-3.png)
+	![](http://soonmo.github.io/images/2-3-(1).png)
 
   * 폴더 설정 
       * UNC 폴더 경로: \\dc\fax_arc
@@ -20,8 +20,8 @@ permalink: /tutorials/fs-device-ug/fax-archiving/
       * 사용자 이름: s**<u>n</u>**
       * 암호: S**<u>n</u>**
 
-		![](http://soonmo.github.io/images/3-2.png)
+		![](http://soonmo.github.io/images/3-2-(1).png)
 
   * &#8220;**적용**&#8221; 클릭
 
-	![](http://soonmo.github.io/images/4-4.png)
+	![](http://soonmo.github.io/images/4-4-(1).png)

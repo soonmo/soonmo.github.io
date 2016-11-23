@@ -14,7 +14,7 @@ PC Send Fax 소프트웨어는 PC 에서 전자 문서를 복합기의 아날로
       * 팩스 발신 방법: “**LAN 팩스 서비스**”
       * “**LAN 팩스 설정**” 탭 클릭
 
-		![](http://soonmo.github.io/images/1-2.png)
+		![](http://soonmo.github.io/images/1-2-(1).png)
 
   * 다음 화면과 같이 설정 
       * 타사 LAN 팩스 제품: “**통지 기능이 없는 일반 LAN 팩스 제품**”
@@ -25,17 +25,17 @@ PC Send Fax 소프트웨어는 PC 에서 전자 문서를 복합기의 아날로
       * “**폴더 이용 권한 확인**” 클릭
       * 화면 제일 하단 “**적용**” 클릭
 
-		![](http://soonmo.github.io/images/2-1.png)
+		![](http://soonmo.github.io/images/2-1-(1).png)
 
   * 보안-액세스 제어, 로그인 및 권한 정책의 &#8220;**팩스 응용 프로그램**&#8220;을 아래와 같이 설정 후 **&#8220;적용**&#8221; 클릭
 
-	![](http://soonmo.github.io/images/4-2.png)
+	![](http://soonmo.github.io/images/4-2-(1).png)
 
 ## 복합기 테스트
 
   * ADF 에 용지 적재 후 복합기 홈화면 &#8220;**팩스**&#8221; 선택
 
-	![](http://soonmo.github.io/images/5-2.png)
+	![](http://soonmo.github.io/images/5-2-(1).png)
 
   * 인증
 
@@ -43,7 +43,7 @@ PC Send Fax 소프트웨어는 PC 에서 전자 문서를 복합기의 아날로
 
   * 팩스 번호를 입력 하거나 주소록에서 이름 선택
 
-	![](http://soonmo.github.io/images/7-2.png)
+	![](http://soonmo.github.io/images/7-2-(2).png)
 
   * 화면 상단 &#8220;**팩스 발신**&#8221; 선택
 
@@ -51,7 +51,7 @@ PC Send Fax 소프트웨어는 PC 에서 전자 문서를 복합기의 아날로
 
   * 확인
 
-	![](http://soonmo.github.io/images/8-2.png)
+	![](http://soonmo.github.io/images/8-2-(1).png)
 
   * “윈도우키+R” \\dc\lanfax
 
@@ -61,22 +61,22 @@ PC Send Fax 소프트웨어는 PC 에서 전자 문서를 복합기의 아날로
       * TIFF 이미지 열어서 확인
       * 메모장으로 hpf 파일 열어서 내용 확인
 
-		![](http://soonmo.github.io/images/10-2.png)
+		![](http://soonmo.github.io/images/10-2-(1).png)
 
 ## PC Send Fax 소프트웨어 설치
 
   * \\dc\lab_sw “PC-Send-Fax-Driver” 폴더
 
-	![](http://soonmo.github.io/images/11-2.png)
+	![](http://soonmo.github.io/images/11-2-(1).png)
 
   * “HP\_MFP\_SendFax300_64bit” 더블 클릭 후 압푹 해제한다
 
-	![](http://soonmo.github.io/images/12-2.png)
+	![](http://soonmo.github.io/images/12-2-(1).png)
 
   * 시작 – 장치 및 프린터, 프린터 추가
   * 로컬 프린터 추가
 
-	![](http://soonmo.github.io/images/14-1.png)
+	![](http://soonmo.github.io/images/14-1-(1).png)
 
   * 새포트 만들기, “Standard TCP/IP port”
 
@@ -88,23 +88,23 @@ PC Send Fax 소프트웨어는 PC 에서 전자 문서를 복합기의 아날로
 
   * 디스크 있음
 
-	![](http://soonmo.github.io/images/17-2.png)
+	![](http://soonmo.github.io/images/17-2-(1).png)
 
   * 찾아보기 “c:\HP PC Send Fax 64bit Driver”
 
-	![](http://soonmo.github.io/images/18-2.png)
+	![](http://soonmo.github.io/images/18-2-(1).png)
 
   * 다음
 
-	![](http://soonmo.github.io/images/19-2.png)
+	![](http://soonmo.github.io/images/19-2-(1).png)
 
   * 다음
 
-	![](http://soonmo.github.io/images/20-2.png)
+	![](http://soonmo.github.io/images/20-2-(2).png)
 
   * &#8220;**공유안함**&#8220;, 다음
 
-	![](http://soonmo.github.io/images/21-2.png)
+	![](http://soonmo.github.io/images/21-2-(1).png)
 
   * 테스트 페이지 인쇄
 
