@@ -17,7 +17,7 @@ permalink: /tutorials/fs-device-ug/scan-to-email/
 
   * &#8220;**다음**&#8221; 클릭
 
-	![](http://soonmo.github.io/images/3.png)
+	![](http://soonmo.github.io/images/3-(1).png)
 
   * **서버에 인증이 필요하지 않습니다**. “**다음**”
 
@@ -46,7 +46,7 @@ permalink: /tutorials/fs-device-ug/scan-to-email/
 
   * 메일 확인
 
-	![](http://soonmo.github.io/images/9.png)
+	![](http://soonmo.github.io/images/9-(1).png)
 
 	![](http://soonmo.github.io/images/9-1.png)
 
