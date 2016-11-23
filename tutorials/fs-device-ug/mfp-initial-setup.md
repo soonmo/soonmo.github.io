@@ -33,7 +33,7 @@ permalink: /tutorials/fs-device-ug/mfp-initial-setup/
 
   * 시작화면에 &#8220;**초기 설정**&#8221; 표시 체크 해제 후 확인
 
-	![](http://soonmo.github.io/images/7-2.png)
+	![](http://soonmo.github.io/images/7-2-(1).png)
 
 ## 복합기 네트웍 설정
 
@@ -60,16 +60,16 @@ permalink: /tutorials/fs-device-ug/mfp-initial-setup/
   * &#8220;upd-pcl6-x64-6.0.0.1.18849&#8221; 더블 클릭 (32bit OS면 upd-pcl6-x32-6.0.0.1.18849)
   * 설치 모드 선택 화면이 나오면 &#8220;**동적모드**&#8221; 선택
 
-	![](http://soonmo.github.io/images/20-1.png)
+	![](http://soonmo.github.io/images/20-1-(1).png)
 
   * 설치가 끝나면 &#8220;**마침**&#8221; 클릭
 
-	![](http://soonmo.github.io/images/21-1.png)
+	![](http://soonmo.github.io/images/21-1-(1).png)
 
   * [시작]-[장치 및 프린터], HP Universal Printing PCL 6 마우스 오른쪽 클릭 후 프린터 속성 선택
   * 프린터 주소 입력: 172.16.10.15x
   * &#8220;**내 프린터 및 팩스 폴더에 이 프린터 추가**&#8221; 선택 후 확인
 
-	![](http://soonmo.github.io/images/26.png)
+	![](http://soonmo.github.io/images/26-(1).png)
 
   * 새로 추가된 프린터 &#8220;HP LaserJet color flow MFP M575 (xxx.xxx.xxx.xxx)&#8221; 기본 프린터로 설정 후 시험 인쇄를 한다.
