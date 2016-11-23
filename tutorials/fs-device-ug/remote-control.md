@@ -33,10 +33,10 @@ permalink: /tutorials/fs-device-ug/remote-control/
 
   * 다음과 같은 메시지가 뜨면 &#8220;**확인**&#8221; 누른다.
 
-	![](http://soonmo.github.io/images/5-3.png)
+	![](http://soonmo.github.io/images/5-3-(1).png)
 
   * &#8220;**확인**&#8221; 누른다.
 
-	![](http://soonmo.github.io/images/6-2.png)
+	![](http://soonmo.github.io/images/6-2-(1).png)
 
   * 우측 하단의 &#8220;**원격 세션 종료**&#8221; 클릭해서 종료
