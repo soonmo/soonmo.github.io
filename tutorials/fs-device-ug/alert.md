@@ -19,7 +19,7 @@ permalink: /tutorials/fs-device-ug/alert/
 
   * “**새 알림 메시지**” 클릭
 
-	![](http://soonmo.github.io/images/3-3.png)
+	![](http://soonmo.github.io/images/3-3-(1).png)
 
   * 다음과 같이 설정 
       * 단계1 알림 메시지 이름 : **도어열림**
@@ -30,11 +30,11 @@ permalink: /tutorials/fs-device-ug/alert/
 
   * 단계 5 전자우편에 펌부할 파일 선택 (선택사항): “**소모품 상태 페이지**”, “**구성 페이지**” 선택
 
-	![](http://soonmo.github.io/images/5-5.png)
+	![](http://soonmo.github.io/images/5-5-(1).png)
 
   * &#8220;**적용**&#8221; 클릭
 
-	![](http://soonmo.github.io/images/6-4.png)
+	![](http://soonmo.github.io/images/6-4-(1).png)
 
   * “**도어열림**” 체크 후 “**테스트**” 클릭
 
@@ -42,7 +42,7 @@ permalink: /tutorials/fs-device-ug/alert/
 
   * &#8220;**확인**&#8221; 클릭
 
-	![](http://soonmo.github.io/images/8-5.png)
+	![](http://soonmo.github.io/images/8-5-(1).png)
 
   * <http://mail.ppsdemo.net> 접속 후 로그-인
 
