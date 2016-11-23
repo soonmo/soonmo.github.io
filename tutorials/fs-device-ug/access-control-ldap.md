@@ -12,7 +12,7 @@ permalink: /tutorials/fs-device-ug/access-control-ldap/
   * Select Installation Type 에서 “**Typical**” 선택해서 설치
   * 설치가 끝나면 바탕화면의 “**Softera LDAP Broswer**” 아이콘 더블클릭
 
-	![](http://soonmo.github.io/images/4-5.png)
+	![](http://soonmo.github.io/images/4-5-(1).png)
 
   * “**In the future, do not show the warning**” 체크 후 **OK**
 
@@ -24,7 +24,7 @@ permalink: /tutorials/fs-device-ug/access-control-ldap/
 
   * 프로그램이 실행되면 **Ctrl + P** 를 누른다. 프로파일 이름을 적당히 입력한다. (예) HP Partner Tech U Lab
 
-	![](http://soonmo.github.io/images/7-4.png)
+	![](http://soonmo.github.io/images/7-4-(1).png)
 
   * Host: 에 dc 입력, Fetch Base DNs 클릭 후 “DC=ppsdemo, DC=net” 선택
 
@@ -32,7 +32,7 @@ permalink: /tutorials/fs-device-ug/access-control-ldap/
 
   * “**Currently logged on user (Active Directory only**)” 선택
 
-	![](http://soonmo.github.io/images/9-2.png)
+	![](http://soonmo.github.io/images/9-2-(1).png)
 
   * 마침
   * Find what 에 **계정명**을 입력 후 엔터. (예) s1, 검색 결과가 나오면 CN 을 더블 클릭
@@ -43,7 +43,7 @@ permalink: /tutorials/fs-device-ug/access-control-ldap/
       * **cn**: s1
       * **distinguishedName**: CN=s1,CN=Users,DC=ppsdemo,DC=net
 
-	![](http://soonmo.github.io/images/12-4.png)
+	![](http://soonmo.github.io/images/12-4-(1).png)
 
 ## 내장 웹서버 설정
 
@@ -53,7 +53,7 @@ permalink: /tutorials/fs-device-ug/access-control-ldap/
 
   * LDAP 로그인  사용 체크, LDAP 서버 주소: 172.16.10.10, 접두사 바인딩: cn
 
-	![](http://soonmo.github.io/images/14-2.png)
+	![](http://soonmo.github.io/images/14-2-(1).png)
 
   * 루트 바인딩 및 검색: CN=Users,DC=ppsdemo,DC=net 입력 후 “**추가**” 클릭 
       * 입력한 이름과 이 속성 일치: **cn**
@@ -61,12 +61,12 @@ permalink: /tutorials/fs-device-ug/access-control-ldap/
       * 이 속성으로 장치 사용자의 이름 불러오기: **displayName**
       * 이 속성으로 장치 사용자의 관련 단체 불러 오기: **objectClass**
 
-	![](http://soonmo.github.io/images/15-1.png)
+	![](http://soonmo.github.io/images/15-1-(1).png)
 
   * **확인** 클릭
   * 다시 LDAP 좌측 &#8220;**설정**&#8221; 클릭
 
-	![](http://soonmo.github.io/images/16-1.png)
+	![](http://soonmo.github.io/images/16-1-(1).png)
 
   * 화면 하단 “**LDAP 로그인 테스트**” 에서 사용자 이름, 암호를 입력 후 “**테스트**” 클릭 
       * 사용자 이름: sn (본인 아이디)

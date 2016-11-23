@@ -48,7 +48,7 @@ permalink: /tutorials/fs-device-ug/restrict-color/
 
   * 스크롤 다운 “**장치 사용자 계정**”, “**새로 만들기**” 클릭
 
-	![](http://soonmo.github.io/images/13-3.png)
+	![](http://soonmo.github.io/images/13-3-(1).png)
 
   * 본인 계정을 아래와 같이 추가 후 “**확인**” 클릭 
       * 표시 이름: Studentn
