@@ -9,7 +9,7 @@ permalink: /tutorials/fs-device-ug/addressbook/
 
   * 스캔/디지털 전송 &#8211; 주소록
 
-	![](http://soonmo.github.io/images/1-3.png)
+	![](http://soonmo.github.io/images/1-3-(1).png)
 
   * 장치에 저장된 연락처에서 본인 연락처 (Studentn) 을 체크 후 “**편집**” 클릭
 
