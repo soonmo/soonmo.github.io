@@ -10,12 +10,12 @@ ACL을 구성하면 특정 PC 나 Server 에서만 복합기로 인쇄를 하거
   * **네트워킹** 탭 클릭
   * 사용자: admin, 암호:admin 입력 후 확인
 
-	![](http://soonmo.github.io/images/2-4.png)
+	![](http://soonmo.github.io/images/2-4-(1).png)
 
   * 좌측 메뉴 중 &#8220;**승인**&#8221; 클릭 후 메인 화면의 &#8220;**액세스 제어**&#8221; 탭 클릭
   * 우측 테이블에 아래와 같이 IPv4 주소에 본인 PC의 IP 주소를 입력하고 저장에 체크, 화면 하단의 “**적용**” 클릭
 
-	![](http://soonmo.github.io/images/5-4.png)
+	![](http://soonmo.github.io/images/5-4-(1).png)
 
 ## 테스트
 
@@ -30,4 +30,4 @@ ACL을 구성하면 특정 PC 나 Server 에서만 복합기로 인쇄를 하거
       * IP 주소 좌측의 저장 체크 마크 해제
       * &#8220;**웹 서버 (HTTP) 액세스 허용**&#8221; 체크
 
-		![](http://soonmo.github.io/images/10-1.png)
+		![](http://soonmo.github.io/images/10-1-(1).png)
