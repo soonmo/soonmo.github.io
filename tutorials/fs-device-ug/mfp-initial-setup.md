@@ -29,7 +29,7 @@ permalink: /tutorials/fs-device-ug/mfp-initial-setup/
 
   * 좌측 상단 홈(집모양) 아이콘 선택
 
-	![](http://soonmo.github.io/images/6-1.png)
+	![](http://soonmo.github.io/images/6-1-(1).png)
 
   * 시작화면에 &#8220;**초기 설정**&#8221; 표시 체크 해제 후 확인
 
