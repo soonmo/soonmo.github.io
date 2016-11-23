@@ -13,7 +13,7 @@ permalink: /tutorials/fs-device-ug/mfp-initial-setup/
 
   * 날짜/시간 형식 &#8211; 날짜 형식: YYYY/MMM/DD, 시간 형식: 12시간(오전/오후)
 
-	![](http://soonmo.github.io/images/2-2.png)
+	![](http://soonmo.github.io/images/2-2-(1).png)
 
   * 시간대- **(GMT+9:00) 서울**, 날짜/시간을 맞춘다.
 
