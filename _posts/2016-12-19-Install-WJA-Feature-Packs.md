@@ -10,7 +10,7 @@ Feature Packs 는 Web JetAdmin 10.3 SR8 이후에 추가된 기능으로 WJA을 
 가각의 Feature Packs은 최소의 WJA 버전 요구사항이 있기 때문에 설치전에 이를 미리 확인해야 한다. 최소 버전 요구 사항이 맞지 않은 경우에는 설치시 최소 버전 요구 사항에 대한 안내 메시지가 뜨고 설치가 안된다.
 
 **주의!**
-Feature Packs 가 일단 설치되면 WJA으로 부터 제거가 불가능하다. 만일을 위해서 Feature Packs 적용 전에 WJA 백업 수행을 권장함
+Feature Packs 이 일단 설치되면 WJA으로 부터 제거가 불가능하다. 만일을 위해서 Feature Packs 적용 전에 WJA 백업 수행을 권장함
 
 ### Feature Packs 구하기
 [HP Web JetAdmin 공식 웹사이트](http://hp.com/go/webjetadmin) 에서 Feature Packs 를 다운로드 한다.
