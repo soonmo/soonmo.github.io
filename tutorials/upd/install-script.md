@@ -5,7 +5,7 @@ permalink: /tutorials/upd/install-script/
 ---
 프린터 추가 마법사나 벤더에서 제공하는 설치 프로그램을 이용해서 설치를 하게 되면 단계가 많아서 일반 사용자가 설치하기가 불편하고 시간도 많이 걸린다. 이를 자동화해서 쉽게 설치하려면 Windows 에서 제공하는 Rundll32 나 UPD의 경우 install.exe 를 이용해서 스크립트를 만들면 된다. 이번 실습에서는 스크립트를 이용해서 드라이버를 설치해 보겠다.
 
-  * [실습용 샘플 파일 다운로드](https://soonmo.net/owncloud/index.php/s/1EOLu88ntdAs6oX)
+  * [실습용 샘플 파일 다운로드](https://drive.google.com/open?id=1n2BUZ8uT3alSScvTVVl_oMUDLFmFj2SL)
 
   * “**HP\_프린터\_드라이버팩_Beta.exe**” 를 바탕화면으로 복사 후 더블 클릭
   * **2** 입력 후 (엔터)
