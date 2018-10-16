@@ -1,5 +1,5 @@
 ---
-title: Scan to network folder
+title: Scan to Network Folder
 layout: page
 permalink: /tutorials/fs-device-ug/scan-to-network-folder/
 ---
