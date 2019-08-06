@@ -70,8 +70,6 @@ EWS (내장 웹서버) 접속 후 상단 "**네트워크**" 메뉴 -> 좌측 "**
 
  ![](C:\Jekyll\site\soonmo.github.io\images\Wi-Fi_Direct_06.png)
 
-
-
 Office 365를 구독하고 있는 경우에는 스마트폰에서 One Driver 의 오피스 문서를 바로 인쇄할 수 있습니다.
 
 ![Wi-Fi_Direct_05](..\images\Wi-Fi_Direct_05.png)
