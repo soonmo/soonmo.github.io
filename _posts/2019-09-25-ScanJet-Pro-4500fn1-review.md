@@ -62,7 +62,7 @@ http://h30438.www3.hp.com/pub/softlib/software13/printers/Full_Webpack-41.4.2220
 
 HP Scan 소프트웨어를 사용해서 스캔하는 방식으로 아래 2가지 방식 (방법1, 방법2)이 있습니다.
 
-![SJ4500-Usage-01](C:\Jekyll\site\soonmo.github.io\images\SJ4500-Usage-01.PNG)
+![SJ4500-Usage-01](..\images\SJ4500-Usage-01.PNG)
 
 
 
