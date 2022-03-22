@@ -15,7 +15,7 @@ permalink: /tutorials/
       * [칼라 제한](/tutorials/fs-device-ug/restrict-color/)
   * 디지털 전송 
       * [Scan to email](/tutorials/fs-device-ug/scan-to-email/)
-      * [Scan to network folder](/tutorials/fs-device-ug/scan-to-network-folder/)
+      * [Scan to Network Folder](/tutorials/fs-device-ug/scan-to-network-folder/)
       * [주소록 (Addressbook)](/tutorials/fs-device-ug/addressbook/)
   * 팩스 
       * [PC Send Fax 소프트웨어](/tutorials/fs-device-ug/pc-send-fax/)
@@ -39,16 +39,16 @@ permalink: /tutorials/
       * [고장 탐구](/tutorials/wja-ug/troubleshooting/)
       * [경고 (Alert)](/tutorials/wja-ug/alert/)
   * 보안 설정 
-      * [Port 변경](/tutorials/wja-ug/port/)
+      * [Port 번호 변경](/tutorials/wja-ug/port/)
       * [사용자 추가 및 역할 설정](/tutorials/wja-ug/user/)
   * 보고서 및 경고 
       * [보고서 샘플 살펴 보기](/tutorials/wja-ug/report-sample/)
       * [데이터 수집 설정](/tutorials/wja-ug/data-collection/)
-      * [리포트 작성](/tutorials/wja-ug/report/)
+      * [보고서 작성](/tutorials/wja-ug/report/)
       * [소모품 관리를 위한 경고(알림) 설정](/tutorials/wja-ug/alert-supply/)
       * [장애 관리를 위한 경고(알림) 설정](/tutorials/wja-ug/trouble-alert/)
       * [그룹에 경고 템플릿 적용](/tutorials/wja-ug/alert-template/)
-      * [사용자별 장치 사용 리포트 작성 (옵션)](/tutorials/wja-ug/report-by-user)
+      * [사용자별 장치 사용 보고서 작성 (옵션)](/tutorials/wja-ug/report-by-user)
 
 ## HP Universal Print Driver
 
