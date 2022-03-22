@@ -1,5 +1,5 @@
 ---
-title: Port 변경
+title: Port 번호 변경
 layout: page
 permalink: /tutorials/wja-ug/port/
 ---

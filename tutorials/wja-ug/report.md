@@ -1,5 +1,5 @@
 ---
-title: 리포트 작성
+title: 보고서 작성
 layout: page
 permalink: /tutorials/wja-ug/report/
 ---

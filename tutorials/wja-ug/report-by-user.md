@@ -1,5 +1,5 @@
 ---
-title: 사용자별 장치 리포트 작성 (옵션)
+title: 사용자별 장치 보고서 작성 (옵션)
 layout: page
 permalink: /tutorials/wja-ug/report-by-user/
 ---
