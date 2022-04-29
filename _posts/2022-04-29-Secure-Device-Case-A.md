@@ -14,16 +14,16 @@ tags: 보안
 ## 프린터/MFP 보안 설정 (HP 레이저젯 엔터프라이즈)
 
 EWS에 접속해서 관리자 암호 설정
-![보안 설정 1](../images/device_security_01.jpg)
+![보안 설정 1](../images/device_security_01.JPG)
 
 기본적으로 암호 복잡도가 설정되어 있어서 단순한 암호로는 설정이 안됨
-![보안 설정 2](../images/device_security_02.jpg)
+![보안 설정 2](../images/device_security_02.JPG)
 
 인쇄 작업 로그를 노출하지 않도록 홈스크린 설정을 변경함
-![보안 설정 3](../images/device_security_03.jpg)
+![보안 설정 3](../images/device_security_03.JPG)
 
 https 로만 접속이 가능하도록 함
-![보안 설정 4](../images/device_security_04.jpg)
+![보안 설정 4](../images/device_security_04.JPG)
 
 ACL (Access Contrkl List) 설정
-![보안 설정 5](../images/device_security_05.jpg)
+![보안 설정 5](../images/device_security_05.JPG)
