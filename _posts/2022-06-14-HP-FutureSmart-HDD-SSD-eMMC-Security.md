@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HP FutureSmart 저장 장치 보안 백서
+title: HP FutureSmart 저장 장치 보안 백서 번역본
 tags: 보안
 ---
 # <u>HP FutureSmart 기반 제품의 HDD, SSD, eMMC 보안</u>
