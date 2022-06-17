@@ -3,7 +3,7 @@ layout: post
 title: HP FutureSmart 저장 장치 보안 백서
 tags: 보안
 ---
-# HP FutureSmart 기반 프린터/MFP 의 HDD, SSD, eMMC 보안
+# <u>HP FutureSmart 기반 프린터/MFP 의 HDD, SSD, eMMC 보안</u>
 
 ## 개요
 이 문서에서는 HP FutureSmart가 탑재된 제품의 보안 지우기 옵션과 하드 디스크, SSD 및 eMMC 보안에 대해 설명합니다. 
