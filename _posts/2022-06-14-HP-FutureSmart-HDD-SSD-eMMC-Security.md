@@ -207,7 +207,7 @@ NIST 800-88은 가장 약한 것에서 가장 강한 것까지 세 가지 삭제
 * **Purge** 디스크를 디가우싱하거나 드라이브가 지원하는 경우 ATA Secure Erase 수행 명령을 실행합니다(HP에서 사용하는 모든 하드 디스크가 이 명령을 지원함).
 * **Destroy** 디스크를 소각하거나 부수거나 화학적으로 파괴합니다.
 
-| 안전 삭제 기능 | NIST Sanitization level |
+| **안전 삭제 기능** | **NIST Sanitization level** |
 |---|:---|
 | Managing Temporary Job Files | **Clear** when using Secure Fast Erase or Secure Sanitize Erase modes |
 | Erase Job Data | **Clear** |
