@@ -3,6 +3,10 @@ layout: post
 title: HP FutureSmart 저장 장치 보안 백서 번역본
 tags: 보안
 ---
+아래 링크의 HP 기술 백서를 번역했습니다.
+
+[링크] <http://h10032.www1.hp.com/ctg/Manual/c06102462.pdf>
+
 # <u>HP FutureSmart 기반 제품의 HDD, SSD, eMMC 보안</u>
 
 ## 개요
