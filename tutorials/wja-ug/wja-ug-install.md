@@ -11,7 +11,7 @@ permalink: /tutorials/wja-ug/wja-ug-install/
 
 ## HP Web JetAdmin 10.3 소프트웨어 준비
 
-  * <a href="http://•http://www.hp.com/go/webjetadmin" target="_blank">웹젯어드민 사이트</a> 에서 최신 버전으로 다운로드 받는다.
+  * <a href="http://www.hp.com/go/webjetadmin" target="_blank">웹젯어드민 사이트</a> 에서 최신 버전으로 다운로드 받는다.
   * “**HP\_Web\_JetAdmin\_10.3\_SR7\_64\_bit\_SW\_build\_93994\_J6052-10555**” 파일을 바탕화면에 복사한다.
 
 ## 설치 작업
