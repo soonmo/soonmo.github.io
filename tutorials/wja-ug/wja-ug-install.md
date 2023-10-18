@@ -3,20 +3,38 @@ title: 설치
 layout: page
 permalink: /tutorials/wja-ug/wja-ug-install/
 ---
-이번 섹션에서는 HP Web JetAdmin 소프트웨어를 설치한다. 설치 전 시스템 요구 사항을 충족하는지 확인 후에 진행한다. 특히 OS 가 32bit 버전이면 아예 설치가 안되기 때문에 64bit 버전 OS인지 먼저 확인하고 진행한다. 실제 Production 환경에서는 Windows Server 2008 R2 이상 OS와 Server H/W (Proliant) 시스템을 권장한다.
+이번 섹션에서는 HP Web JetAdmin 소프트웨어를 설치한다. 설치 전 시스템 요구 사항을 충족하는지 확인 후에 진행한다. 특히 OS 가 32bit 버전이면 아예 설치가 안되기 때문에 64bit 버전 OS인지 먼저 확인하고 진행한다. 
 
 ### 준비물
 
-  * Windows 7 Professional (64bit) 버전 이상 OS가 설치된 랩탑 또는 PC
+  * Windows 10 Professional (64bit) 버전 이상 OS가 설치된 랩탑 또는 PC
 
-## HP Web JetAdmin 10.3 소프트웨어 준비
+## Windows  OS 설정 변경
+
+한글 Windows 10/11 일 경우 한글 처리를 위해서 유니코드를 처리할 수 있도록 설정을 변경 후 재부팅을 하고 Web JetAdmin 설치를 진행합니다. 영문 Windows 10/11 의 경우 OS 설정 변경을 하지 않아도 됩니다.
+
+* 제어판 > 시계 및 국가 > 날짜, 시간 또는 숫자 형식 변경
+
+![](http://soonmo.github.io/images/wja-ug-unicode-01.png)
+
+* 관리자 옵션 탭 클릭 > 시스템 로캘 변경
+
+![](http://soonmo.github.io/images/wja-ug-unicode-02.png)
+
+* "Beta: 세계 언어 지원을 위해 Unicode UTF-8 사용" 체크
+
+![](http://soonmo.github.io/images/wja-ug-unicode-03.png)
+
+* 재부팅
+
+## HP Web JetAdmin 10.x 소프트웨어 준비
 
   * <a href="http://www.hp.com/go/webjetadmin" target="_blank">웹젯어드민 사이트</a> 에서 최신 버전으로 다운로드 받는다.
-  * “**HP\_Web\_JetAdmin\_10.3\_SR7\_64\_bit\_SW\_build\_93994\_J6052-10555**” 파일을 바탕화면에 복사한다.
+  * “**HP\_Web\_JetAdmin\_10.x\_SRx\_64\_bit\_SW\_build\_xxxxxx\_J6052-10555**” 파일을 바탕화면에 복사한다.
 
 ## 설치 작업
 
-  * “**HP\_Web\_JetAdmin\_10.3\_SR7\_64\_bit\_SW\_build\_93994\_J6052-10555**” 파일 더블 클릭
+  * “**HP\_Web\_JetAdmin\_10.x\_SRx\_64\_bit\_SW\_build\_xxxxx\_J6052-10555**” 파일 더블 클릭
   * &#8220;**한국어**&#8221; 선택 후 &#8220;**확인**&#8221; 클릭 
 
 	![](http://soonmo.github.io/images/wja_ug_02.jpg)
@@ -25,7 +43,7 @@ permalink: /tutorials/wja-ug/wja-ug-install/
 
 	![](http://soonmo.github.io/images/wja_ug_03.jpg)
 
-  * 시스템이 재시작되면 다시 “**HP\_Web\_JetAdmin\_10.3\_SR7\_64\_bit\_SW\_build\_93994\_J6052-10555**” 더블 클릭 한다.
+  * 시스템이 재시작되면 다시 “**HP\_Web\_JetAdmin\_10.x\_SRx\_64\_bit\_SW\_build\_xxxxx\_J6052-10555**” 더블 클릭 한다.
   * &#8220;**사용권 계약서의 조건의 동의함**&#8221; 선택 후 &#8220;**다음**&#8221; 클릭 
 
 	![](http://soonmo.github.io/images/wja_ug_04.jpg)
