@@ -17,15 +17,13 @@ permalink: /tutorials/wja-ug/wja-ug-install/
 
 ![](http://soonmo.github.io/images/wja-ug-unicode-01.png)
 
-![](..\..\images\wja-ug-unicode-01.png)
-
 * 관리자 옵션 탭 클릭 > 시스템 로캘 변경
 
-![](../../images/wja-ug-unicode-02.png)
+![](http://soonmo.github.io/images/wja-ug-unicode-02.png)
 
 * "Beta: 세계 언어 지원을 위해 Unicode UTF-8 사용" 체크
 
-![](../../images/wja-ug-unicode-03.png)
+![](http://soonmo.github.io/images/wja-ug-unicode-03.png)
 
 * 재부팅
 
